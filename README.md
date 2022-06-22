@@ -1,2 +1,3 @@
-Where am I?
-0x00-shell_basics
+#!/bin/bash
+alx system engineering devops student
+why?
